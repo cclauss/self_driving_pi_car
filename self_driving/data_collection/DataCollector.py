@@ -105,7 +105,7 @@ class BasicDiffCollector(DataCollector):
         while True:
             img = self.camera.take_picture_rgb()
 
-            print "Working"
+            print("Working")
 
             if key.is_pressed('q'):
                 print('Exiting...')
