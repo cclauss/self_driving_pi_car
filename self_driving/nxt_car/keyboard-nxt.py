@@ -60,4 +60,4 @@ if sock:
 
 # Failure
 else:
-    print 'No NXT bricks found'
+    print('No NXT bricks found')
